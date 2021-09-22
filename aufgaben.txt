@@ -1,1 +1,2 @@
 Aufgabe 1: Ja es ist egal.
+Aufgabe 2: Siehe App.vue, Home.vue
