@@ -12,8 +12,11 @@
         >Tesla Inc.</span
       >
       <v-spacer></v-spacer>
-      <v-btn active-class="red--text" click="router." exact>Home</v-btn>
-      <v-btn active-class="red--text" to="/about"  exact class="ml-5"
+      <v-btn active-class="white--text orange" class="white--text black" to="/" exact>Home</v-btn>
+      <v-btn active-class="white--text orange" class="white--text black ml-5" to="/products" exact 
+        >Products</v-btn
+      >
+      <v-btn active-class="white--text orange" class="white--text black ml-5" to="/about" exact 
         >About</v-btn
       >
     </v-app-bar>
