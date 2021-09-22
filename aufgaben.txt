@@ -1,2 +1,4 @@
 Aufgabe 1: Ja es ist egal.
-Aufgabe 2: Siehe App.vue, Home.vue
+Aufgabe 2: Siehe App.vue
+Aufgabe 3: Siehe App.vue
+Aufgabe 4: Siehe App.vue
